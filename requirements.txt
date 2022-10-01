@@ -1,0 +1,7 @@
+aiosqlite==0.17.0
+hikari==2.0.0.dev111
+hikari_lightbulb==2.2.4
+hikari_toolbox==0.1.2
+lightbulb==0.1d
+python-dotenv==0.21.0
+toolbox==1.10.0

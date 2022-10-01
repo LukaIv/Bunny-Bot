@@ -34,3 +34,7 @@ These are project testing commands, that I change and run as I am learning how t
 <h1>Conclusion</h1>
 This bot will continue being updated with new features, as well as bug fixes, as people suggest new things to me.
 Feel free to give your input or if you have any suggestions on how to make things better!
+
+<h3>Running the bot</h3>
+Running the bot requires a .env file with the discord token of your bot account, and the server ID of the servers you want it in.
+Then just type "python bot.py" into the command line.

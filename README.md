@@ -35,6 +35,10 @@ These are project testing commands, that I change and run as I am learning how t
 This bot will continue being updated with new features, as well as bug fixes, as people suggest new things to me.
 Feel free to give your input or if you have any suggestions on how to make things better!
 
+<h3>Bot Creation</h3>
+All requirements found in the requirements.txt file.
+Bunny Bot was developed in Python, with the hikari and lightbulb libraries. The Bot connects to a database through aiosqlite.
+
 <h3>Running the bot</h3>
 Running the bot requires a .env file with the discord token of your bot account, and the server ID of the servers you want it in.
 Then just type "python bot.py" into the command line.
